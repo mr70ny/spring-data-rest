@@ -1,5 +1,5 @@
 # React.js and Spring Data REST
-#### https://github.com/spring-guides/tut-react-and-spring-data-rest/tree/master/basic
+#### https://github.com/spring-guides/tut-react-and-spring-data-rest/
 
 
 ### Commands
